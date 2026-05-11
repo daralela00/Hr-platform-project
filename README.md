@@ -1,2 +1,12 @@
 # Hr platform project
 
+U folderu HrPlatformProject se nalazi sam projekat.
+U folderu HrPlatformProjetTests se nalaze testovi.
+U fajlu HrPlatformProject.mwb se nalazi model koji je koriscen za MySQL bazu.
+
+Najzanimljiviji deo je bio pravljenje testa posto se sa tim dosad nisam susreo, tako da kreiranj bazicnih testova za projekar je predstavljao zanimljiv izazov.
+
+Takodje bih napomenuo da je zapravio ceo projekat bio zanimljiv izazov posto se do sad nisam susreo sa .NET C# metodom kao resenje za backend/REST API.
+Sa C# jezikom sam se sreo i tokom studija i tokom pravljenja projekata video igara koji se nalaze u github repozitorijumu ovog profila.
+Takodje konecpt backend/REST API mi je takodje poznat sa fakulteta i projekata koji se takodje nalaze u github repozitorijumu.
+Medjutim, .NET nacin resavanja tog problema mi je bio nepoznat, tako da adaptacija na .NET je bio zanimljiv i interasantan izazov pri kreiranju ovog projekta.
