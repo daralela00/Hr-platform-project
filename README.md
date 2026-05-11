@@ -1,7 +1,7 @@
 # Hr platform project
 
 U folderu HrPlatformProject se nalazi sam projekat.<br>
-U folderu HrPlatformProjetTests se nalaze testovi.<br>.
+U folderu HrPlatformProjetTests se nalaze testovi.<br>
 U fajlu HrPlatformProject.mwb se nalazi model koji je koriscen za MySQL bazu.<br>
 
 Najzanimljiviji deo je bio pravljenje testa posto se sa tim dosad nisam susreo, tako da kreiranj bazicnih testova za projekar je predstavljao zanimljiv izazov.
